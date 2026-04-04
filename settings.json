@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FlyNet.aternos.me",
-    "port": 18562,
+    "ip": "FlyNetS1.aternos.me",
+    "port": 58464,
     "version": "",
     "try-creative": false
   },
